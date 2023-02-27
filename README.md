@@ -1,10 +1,10 @@
 # Customer_Conversion_Prediction
 
 **Project Overview:**
-This Customer Conversion Prediction Problem is a Final Data Science Project task for the GUVI Geek Networks, IITM Research Park
-This is a Classification Machine Learning Problem
-Fit the best ML model for the given dataset
-To use 6 jar of ML algorithm for the given dataset
+  - This Customer Conversion Prediction Problem is a Final Data Science Project task for the GUVI Geek Networks, IITM Research Park
+  - This is a Classification Machine Learning Problem
+  - Fit the best ML model for the given dataset
+  - To use 6 jar of ML algorithm for the given dataset
 
 **Problem Statement:**
   You are working for a new-age insurance company and employ multiple outreach plans to sell term insurance to your customers.
