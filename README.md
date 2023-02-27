@@ -13,6 +13,7 @@
   4. We are given the historical marketing data of the insurance company and are required to build a ML model that will predict if a client will subscribe to the insurance.
 
 ## Features:
+  ### Input Variables:
   - age (numeric)
   - job : type of job
   - marital : marital status
@@ -24,7 +25,7 @@
   - num_calls: number of contacts performed during this campaign and for this client
   - prev_outcome: outcome of the previous marketing campaign (categorical: "unknown","other","failure","success")
 
-## Output variable (target):
+   ### Output variable (target):
   - y --> has the client subscribed to the insurance? (YES/NO)
 
 ## Tools and Technologies Covered:
